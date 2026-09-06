@@ -48,21 +48,21 @@
     <circle cx="217" cy="88" r="7" fill="#34D399"/>
     <rect x="256" y="77" width="257" height="22" rx="11" fill="#111827" stroke="#334155"/>
     <text x="278" y="93" fill="#94A3B8" font-family="Consolas, Menlo, monospace" font-size="13">github.com/josntndr</text>
-    <text x="180" y="179" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="800">Josephine Santander</text>
-    <text x="183" y="218" fill="#CCFBF1" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="600">Creative Developer | Web Design | AI Tools</text>
-    <text x="184" y="257" fill="#CBD5E1" font-family="Consolas, Menlo, monospace" font-size="18">const profile = design + code + curiosity;</text>
-    <rect x="180" y="292" width="190" height="40" rx="20" fill="#14B8A6"/>
-    <text x="213" y="318" fill="#022C22" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="800">OPEN PORTFOLIO</text>
-    <rect x="386" y="292" width="155" height="40" rx="20" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.55"/>
-    <text x="421" y="318" fill="#BAE6FD" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="800">VIEW BUILDS</text>
-    <g transform="translate(730 142)">
-      <rect width="250" height="150" rx="18" fill="#020617" fill-opacity="0.72" stroke="#475569"/>
-      <rect x="20" y="24" width="86" height="12" rx="6" fill="#38BDF8"/>
-      <rect x="20" y="50" width="151" height="10" rx="5" fill="#64748B"/>
-      <rect x="20" y="74" width="118" height="10" rx="5" fill="#64748B"/>
-      <rect x="20" y="98" width="178" height="10" rx="5" fill="#64748B"/>
-      <circle cx="202" cy="54" r="21" fill="#14B8A6" fill-opacity="0.22" stroke="#2DD4BF" stroke-width="3"/>
-      <path d="M190 119L209 99L228 119" stroke="#FB923C" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="180" y="171" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="50" font-weight="800">Josephine Santander</text>
+    <text x="183" y="209" fill="#CCFBF1" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="600">Creative Developer | Web Design | AI Tools</text>
+    <text x="184" y="248" fill="#CBD5E1" font-family="Consolas, Menlo, monospace" font-size="18">const profile = design + code + curiosity;</text>
+    <rect x="180" y="286" width="190" height="40" rx="20" fill="#14B8A6"/>
+    <text x="213" y="312" fill="#022C22" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="800">OPEN PORTFOLIO</text>
+    <rect x="386" y="286" width="155" height="40" rx="20" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.55"/>
+    <text x="421" y="312" fill="#BAE6FD" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="800">VIEW BUILDS</text>
+    <g transform="translate(780 142)">
+      <rect width="230" height="128" rx="18" fill="#020617" fill-opacity="0.76" stroke="#475569"/>
+      <rect x="20" y="24" width="82" height="12" rx="6" fill="#38BDF8"/>
+      <rect x="20" y="50" width="137" height="10" rx="5" fill="#64748B"/>
+      <rect x="20" y="74" width="104" height="10" rx="5" fill="#64748B"/>
+      <rect x="20" y="98" width="152" height="10" rx="5" fill="#64748B"/>
+      <circle cx="184" cy="55" r="21" fill="#14B8A6" fill-opacity="0.22" stroke="#2DD4BF" stroke-width="3"/>
+      <path d="M171 115L190 95L209 115" stroke="#FB923C" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
     </g>
     <path d="M153 337C312 318 424 339 573 331C735 322 853 301 1057 333" stroke="url(#accent)" stroke-width="6" stroke-linecap="round"/>
   </g>
