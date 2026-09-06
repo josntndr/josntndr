@@ -1,0 +1,33 @@
+<svg width="560" height="360" viewBox="0 0 560 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Build map</title>
+  <desc id="desc">A creative map connecting idea, design, code, AI, and launch.</desc>
+  <defs>
+    <linearGradient id="line" x1="92" y1="78" x2="464" y2="286" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="0.52" stop-color="#2DD4BF"/>
+      <stop offset="1" stop-color="#FB923C"/>
+    </linearGradient>
+  </defs>
+  <rect width="560" height="360" rx="20" fill="#020617"/>
+  <rect x="16" y="16" width="528" height="328" rx="18" fill="#0F172A" stroke="#334155"/>
+  <path d="M108 94L244 69L349 151L462 94M244 69L218 217L349 151L448 263M218 217L102 266M218 217L448 263" stroke="url(#line)" stroke-width="4" stroke-linecap="round"/>
+  <g fill="#020617" stroke-width="4">
+    <circle cx="108" cy="94" r="34" stroke="#38BDF8"/>
+    <circle cx="244" cy="69" r="34" stroke="#2DD4BF"/>
+    <circle cx="349" cy="151" r="34" stroke="#FACC15"/>
+    <circle cx="462" cy="94" r="34" stroke="#FB923C"/>
+    <circle cx="218" cy="217" r="34" stroke="#A78BFA"/>
+    <circle cx="102" cy="266" r="34" stroke="#22C55E"/>
+    <circle cx="448" cy="263" r="34" stroke="#F97316"/>
+  </g>
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="800" text-anchor="middle">
+    <text x="108" y="99" fill="#BAE6FD">IDEA</text>
+    <text x="244" y="74" fill="#CCFBF1">UX</text>
+    <text x="349" y="156" fill="#FEF3C7">CODE</text>
+    <text x="462" y="99" fill="#FED7AA">AI</text>
+    <text x="218" y="222" fill="#DDD6FE">STYLE</text>
+    <text x="102" y="271" fill="#DCFCE7">TEST</text>
+    <text x="448" y="268" fill="#FFEDD5">SHIP</text>
+  </g>
+  <text x="32" y="45" fill="#94A3B8" font-family="Consolas, Menlo, monospace" font-size="13">creative_build_map.svg</text>
+</svg>

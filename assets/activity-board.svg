@@ -1,0 +1,40 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Activity board</title>
+  <desc id="desc">A static GitHub activity board with creative metrics and project themes.</desc>
+  <defs>
+    <linearGradient id="hot" x1="70" y1="50" x2="1130" y2="272" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="0.44" stop-color="#14B8A6"/>
+      <stop offset="1" stop-color="#F97316"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="22" fill="#020617"/>
+  <rect x="28" y="28" width="1144" height="264" rx="20" fill="#0F172A" stroke="#243244"/>
+  <text x="62" y="72" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="800">Activity Board</text>
+  <text x="62" y="103" fill="#94A3B8" font-family="Consolas, Menlo, monospace" font-size="15">No fragile stat API required. This profile stays pretty.</text>
+  <g transform="translate(62 136)">
+    <rect width="247" height="104" rx="16" fill="#020617" stroke="#334155"/>
+    <text x="24" y="36" fill="#38BDF8" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="800">Design Lane</text>
+    <text x="24" y="68" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="800">Interface polish</text>
+  </g>
+  <g transform="translate(337 136)">
+    <rect width="247" height="104" rx="16" fill="#020617" stroke="#334155"/>
+    <text x="24" y="36" fill="#2DD4BF" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="800">Build Lane</text>
+    <text x="24" y="68" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="800">Frontend practice</text>
+  </g>
+  <g transform="translate(612 136)">
+    <rect width="247" height="104" rx="16" fill="#020617" stroke="#334155"/>
+    <text x="24" y="36" fill="#FACC15" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="800">AI Lane</text>
+    <text x="24" y="68" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="800">Better workflows</text>
+  </g>
+  <g transform="translate(887 136)">
+    <rect width="247" height="104" rx="16" fill="#020617" stroke="#334155"/>
+    <text x="24" y="36" fill="#FB923C" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="800">Ship Lane</text>
+    <text x="24" y="68" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="800">Visible progress</text>
+  </g>
+  <path d="M64 263H1136" stroke="url(#hot)" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="190" cy="263" r="9" fill="#38BDF8"/>
+  <circle cx="468" cy="263" r="9" fill="#2DD4BF"/>
+  <circle cx="746" cy="263" r="9" fill="#FACC15"/>
+  <circle cx="1024" cy="263" r="9" fill="#FB923C"/>
+</svg>
