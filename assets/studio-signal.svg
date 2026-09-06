@@ -11,11 +11,12 @@
   <rect x="1" y="1" width="1198" height="268" rx="22" fill="#020617" stroke="#1F2937" stroke-width="2"/>
   <rect x="28" y="28" width="1144" height="214" rx="18" fill="#0F172A"/>
   <rect x="28" y="28" width="1144" height="214" rx="18" stroke="url(#edge)" stroke-opacity="0.7" stroke-width="2"/>
-  <g transform="translate(68 62)">
+  <g transform="translate(68 56)">
     <text x="0" y="0" fill="#94A3B8" font-family="Consolas, Menlo, monospace" font-size="14">CURRENT TRANSMISSION</text>
-    <text x="0" y="44" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="800">Building a digital identity with style, structure, and intent.</text>
-    <text x="0" y="83" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="18">I turn learning into visible work: polished interfaces, useful projects, and creative experiments.</text>
-    <g transform="translate(0 122)">
+    <text x="0" y="41" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="31" font-weight="800">Digital identity, designed with intent.</text>
+    <text x="0" y="78" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="18">Clean interfaces, useful projects, and creative experiments.</text>
+    <text x="0" y="107" fill="#94A3B8" font-family="Consolas, Menlo, monospace" font-size="15">current_mood: learning -> building -> shipping</text>
+    <g transform="translate(0 139)">
       <rect width="146" height="34" rx="17" fill="#082F49"/>
       <text x="22" y="23" fill="#BAE6FD" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">WEB DESIGN</text>
       <rect x="164" width="128" height="34" rx="17" fill="#134E4A"/>

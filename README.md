@@ -16,6 +16,10 @@
 
 </div>
 
+## Welcome To My Buildverse
+
+I design with clean structure, code with curiosity, and use AI tools to turn ideas into polished digital work. This profile is my live creative board: part portfolio, part dev journal, part tiny arcade.
+
 ## Studio Signal
 
 <img src="./assets/studio-signal.svg" alt="Creative profile signal board" width="100%" />
@@ -27,6 +31,40 @@ Campus      FEU Institute of Technology
 Location    Imus, Cavite, Philippines
 Mode        Designing clean interfaces and building practical web projects
 ```
+
+## Profile Mini Game
+
+<img src="./assets/profile-arcade.svg" alt="Profile mini game board" width="100%" />
+
+<details open>
+  <summary><strong>Start Game: Choose your quest</strong></summary>
+  <br />
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <a href="#creative-stack"><strong>Collect Tools</strong></a>
+        <br />
+        Unlock the stack I use to build interfaces.
+      </td>
+      <td align="center" width="33%">
+        <a href="#build-map"><strong>Enter The Build Map</strong></a>
+        <br />
+        Follow how ideas move from spark to shipped project.
+      </td>
+      <td align="center" width="33%">
+        <a href="#connect"><strong>Open Final Portal</strong></a>
+        <br />
+        Visit my portfolio or connect with me.
+      </td>
+    </tr>
+  </table>
+</details>
+
+<details>
+  <summary><strong>Secret Level: Why this profile exists</strong></summary>
+  <br />
+  I am learning in public and turning my GitHub into a place that feels alive: visual, useful, and easy for visitors to remember.
+</details>
 
 ## Creative Stack
 
@@ -45,25 +83,11 @@ Mode        Designing clean interfaces and building practical web projects
 
 ## Build Map
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="./assets/build-map.svg" alt="Josephine's build map" width="100%" />
-    </td>
-    <td width="50%">
-      <h3>What I am crafting</h3>
-      <p>
-        I am growing as a web designer and creative developer by turning ideas into clean,
-        usable digital projects. My favorite space is where layout, interaction, and AI-assisted
-        workflows meet.
-      </p>
-      <p>
-        Right now I am focused on frontend fundamentals, responsive design, portfolio projects,
-        and building a GitHub presence that feels personal instead of generic.
-      </p>
-    </td>
-  </tr>
-</table>
+<img src="./assets/build-map.svg" alt="Josephine's build map" width="100%" />
+
+I am growing as a web designer and creative developer by turning ideas into clean, usable digital projects. My favorite space is where layout, interaction, and AI-assisted workflows meet.
+
+Right now I am focused on frontend fundamentals, responsive design, portfolio projects, and building a GitHub presence that feels personal instead of generic.
 
 ## Project Energy
 
