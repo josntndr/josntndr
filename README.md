@@ -16,13 +16,9 @@ I’m a creative developer and interface designer from the Philippines, turning 
 
 <img src="./assets/profile-strip.svg" alt="Based in Imus, Cavite; studying at FEU Institute of Technology; currently designing, building, and shipping" width="100%" />
 
-## Creative Compass
+## Leadership
 
-<!-- CREATIVE-COMPASS:START -->
-<img src="./assets/creative-compass.svg" alt="Daily creative direction guided by clarity, empathy, and curiosity" width="100%" />
-
-<p align="center"><sub>A daily creative direction, refreshed in Manila time.</sub></p>
-<!-- CREATIVE-COMPASS:END -->
+<img src="./assets/leadership.svg" alt="Leadership experience across FEU Tech ACM, JPCS FEU Tech, and FEU Tech CS Expo" width="100%" />
 
 ## Selected Work
 

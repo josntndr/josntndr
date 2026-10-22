@@ -1,0 +1,97 @@
+<svg width="1200" height="580" viewBox="0 0 1200 580" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" text-rendering="geometricPrecision">
+  <title id="title">Josephine Santander&apos;s leadership experience</title>
+  <desc id="desc">A timeline of four student leadership roles from 2023 to the present.</desc>
+  <defs>
+    <linearGradient id="background" x1="18" y1="16" x2="1182" y2="564" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#08111F"/>
+      <stop offset="0.53" stop-color="#10152A"/>
+      <stop offset="1" stop-color="#1B1025"/>
+    </linearGradient>
+    <linearGradient id="timeline" x1="63" y1="78" x2="63" y2="542" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5EEAD4"/>
+      <stop offset="0.42" stop-color="#A78BFA"/>
+      <stop offset="0.72" stop-color="#FB7185"/>
+      <stop offset="1" stop-color="#FACC15"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1048 34) rotate(140) scale(340 470)">
+      <stop stop-color="#8B5CF6" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="nodeGlow" x="-250%" y="-250%" width="600%" height="600%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>text { opacity: 0.999; }</style>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="578" rx="24" fill="url(#background)" stroke="#334155" stroke-opacity="0.76" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="578" rx="24" fill="url(#glow)"/>
+  <text x="38" y="47" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="20" font-weight="800" letter-spacing="0.4">LEADERSHIP JOURNEY</text>
+  <text x="1160" y="46" fill="#94A3B8" font-family="Consolas, monospace" font-size="12" text-anchor="end">2023 &#8212; PRESENT</text>
+
+  <path d="M64 88V531" stroke="#1E293B" stroke-width="6" stroke-linecap="round"/>
+  <path d="M64 88V531" stroke="url(#timeline)" stroke-width="3" stroke-linecap="round" stroke-dasharray="7 11"/>
+  <circle cx="64" cy="88" r="5" fill="#F8FAFC" filter="url(#nodeGlow)">
+    <animate attributeName="cy" values="88;531;88" keyTimes="0;0.82;1" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.82;1" dur="7s" repeatCount="indefinite"/>
+  </circle>
+
+  <g transform="translate(105 72)">
+    <rect width="1058" height="110" rx="17" fill="#080D19" stroke="#5EEAD4" stroke-opacity="0.24"/>
+    <text x="28" y="31" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="18" font-weight="800">FEU TECH ACM STUDENT CHAPTER</text>
+    <text x="28" y="54" fill="#99F6E4" font-family="Arial, sans-serif" font-size="13" font-weight="700">Junior Officer &#183; Secretarial Committee</text>
+    <rect x="898" y="17" width="132" height="30" rx="15" fill="#5EEAD4" fill-opacity="0.1" stroke="#5EEAD4" stroke-opacity="0.4"/>
+    <text x="964" y="37" fill="#99F6E4" font-family="Consolas, monospace" font-size="12" font-weight="700" text-anchor="middle">2023 &#8212; 2025</text>
+    <circle cx="31" cy="75" r="3" fill="#5EEAD4"/>
+    <text x="43" y="79" fill="#CBD5E1" font-family="Arial, sans-serif" font-size="13">Assisted in preparing documents, recording meeting details, and organizing files for student activities.</text>
+    <circle cx="31" cy="96" r="3" fill="#5EEAD4"/>
+    <text x="43" y="100" fill="#CBD5E1" font-family="Arial, sans-serif" font-size="13">Coordinated with fellow officers to support events, announcements, and other organizational tasks.</text>
+  </g>
+  <circle cx="64" cy="127" r="18" fill="#0A1722" stroke="#5EEAD4" stroke-width="2"/>
+  <text x="64" y="132" fill="#99F6E4" font-family="Consolas, monospace" font-size="11" font-weight="700" text-anchor="middle">01</text>
+
+  <g transform="translate(105 196)">
+    <rect width="1058" height="110" rx="17" fill="#080D19" stroke="#60A5FA" stroke-opacity="0.24"/>
+    <text x="28" y="31" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="18" font-weight="800">FEU TECH ACM STUDENT CHAPTER</text>
+    <text x="28" y="54" fill="#93C5FD" font-family="Arial, sans-serif" font-size="13" font-weight="700">Junior Officer &#183; Sports Committee</text>
+    <rect x="898" y="17" width="132" height="30" rx="15" fill="#60A5FA" fill-opacity="0.1" stroke="#60A5FA" stroke-opacity="0.4"/>
+    <text x="964" y="37" fill="#BFDBFE" font-family="Consolas, monospace" font-size="12" font-weight="700" text-anchor="middle">2023 &#8212; 2024</text>
+    <circle cx="31" cy="75" r="3" fill="#60A5FA"/>
+    <text x="43" y="79" fill="#CBD5E1" font-family="Arial, sans-serif" font-size="13">Assisted in organizing sports activities and coordinating event requirements with fellow officers.</text>
+    <circle cx="31" cy="96" r="3" fill="#60A5FA"/>
+    <text x="43" y="100" fill="#CBD5E1" font-family="Arial, sans-serif" font-size="13">Supported participant registration, scheduling, and on-site event operations.</text>
+  </g>
+  <circle cx="64" cy="251" r="18" fill="#0A1322" stroke="#60A5FA" stroke-width="2"/>
+  <text x="64" y="256" fill="#BFDBFE" font-family="Consolas, monospace" font-size="11" font-weight="700" text-anchor="middle">02</text>
+
+  <g transform="translate(105 320)">
+    <rect width="1058" height="110" rx="17" fill="#080D19" stroke="#A78BFA" stroke-opacity="0.26"/>
+    <text x="28" y="31" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="18" font-weight="800">JUNIOR PHILIPPINE COMPUTER SOCIETY &#8212; FEU TECH</text>
+    <text x="28" y="54" fill="#C4B5FD" font-family="Arial, sans-serif" font-size="13" font-weight="700">Junior Officer &#183; Partnership Committee</text>
+    <rect x="898" y="17" width="132" height="30" rx="15" fill="#A78BFA" fill-opacity="0.11" stroke="#A78BFA" stroke-opacity="0.42"/>
+    <text x="964" y="37" fill="#DDD6FE" font-family="Consolas, monospace" font-size="12" font-weight="700" text-anchor="middle">2024 &#8212; 2025</text>
+    <circle cx="31" cy="75" r="3" fill="#A78BFA"/>
+    <text x="43" y="79" fill="#CBD5E1" font-family="Arial, sans-serif" font-size="13">Helped identify and communicate with potential partners and sponsors for student-led events.</text>
+    <circle cx="31" cy="96" r="3" fill="#A78BFA"/>
+    <text x="43" y="100" fill="#CBD5E1" font-family="Arial, sans-serif" font-size="13">Assisted in preparing partnership proposals and coordinating collaboration requirements.</text>
+  </g>
+  <circle cx="64" cy="375" r="18" fill="#121021" stroke="#A78BFA" stroke-width="2"/>
+  <text x="64" y="380" fill="#DDD6FE" font-family="Consolas, monospace" font-size="11" font-weight="700" text-anchor="middle">03</text>
+
+  <g transform="translate(105 444)">
+    <rect width="1058" height="110" rx="17" fill="#080D19" stroke="#FB7185" stroke-opacity="0.25"/>
+    <text x="28" y="31" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="18" font-weight="800">FEU TECH CS EXPO 2026</text>
+    <text x="28" y="54" fill="#FDA4AF" font-family="Arial, sans-serif" font-size="13" font-weight="700">Secretarial Committee</text>
+    <rect x="886" y="17" width="144" height="30" rx="15" fill="#FB7185" fill-opacity="0.1" stroke="#FB7185" stroke-opacity="0.4"/>
+    <text x="958" y="37" fill="#FECDD3" font-family="Consolas, monospace" font-size="12" font-weight="700" text-anchor="middle">2026 &#8212; PRESENT</text>
+    <circle cx="31" cy="75" r="3" fill="#FB7185"/>
+    <text x="43" y="79" fill="#CBD5E1" font-family="Arial, sans-serif" font-size="13">Help prepare planning documents, record meeting details, and organize files for the upcoming Computer Science thesis showcase.</text>
+    <circle cx="31" cy="96" r="3" fill="#FB7185"/>
+    <text x="43" y="100" fill="#CBD5E1" font-family="Arial, sans-serif" font-size="13">Coordinate with fellow organizers on an event featuring thesis work from FEU Tech&apos;s Computer Science Department.</text>
+  </g>
+  <circle cx="64" cy="499" r="18" fill="#1A101A" stroke="#FB7185" stroke-width="2"/>
+  <text x="64" y="504" fill="#FECDD3" font-family="Consolas, monospace" font-size="11" font-weight="700" text-anchor="middle">04</text>
+</svg>
