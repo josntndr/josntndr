@@ -60,15 +60,17 @@ I’m a creative developer and interface designer from the Philippines, turning 
 
 </div>
 
-## How I Build
+## GitHub Contributions
 
-<table>
-  <tr>
-    <td width="33%" align="center"><strong>01 · Discover</strong><br /><sub>Understand the problem and the people using it.</sub></td>
-    <td width="33%" align="center"><strong>02 · Design</strong><br /><sub>Shape a clear flow and a focused visual system.</sub></td>
-    <td width="33%" align="center"><strong>03 · Deliver</strong><br /><sub>Build, test, refine, and ship the useful version.</sub></td>
-  </tr>
-</table>
+<div align="center">
+
+<a href="https://github.com/josntndr" title="View my GitHub profile">
+  <img width="100%" src="https://contribkit.app/user/josntndr.svg?palette=tokyonight&amp;shape=rounded&amp;background=%230d1117" alt="Josephine's live GitHub contribution calendar" />
+</a>
+
+<sub>Live contribution calendar · refreshed automatically from GitHub.</sub>
+
+</div>
 
 <div align="center">
 
