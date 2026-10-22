@@ -24,15 +24,39 @@ I’m a creative developer and interface designer from the Philippines, turning 
 
 <div align="center">
 
+<sub><strong>FRONTEND &amp; INTERFACE</strong></sub>
+<br /><br />
+
 ![HTML5](https://img.shields.io/badge/HTML5-0b1020?style=for-the-badge&logo=html5&logoColor=fb7185)
 ![CSS3](https://img.shields.io/badge/CSS3-0b1020?style=for-the-badge&logo=css3&logoColor=60a5fa)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0b1020?style=for-the-badge&logo=javascript&logoColor=facc15)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0b1020?style=for-the-badge&logo=typescript&logoColor=60a5fa)
+![React](https://img.shields.io/badge/React-0b1020?style=for-the-badge&logo=react&logoColor=5eead4)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0b1020?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8)
+![Vite](https://img.shields.io/badge/Vite-0b1020?style=for-the-badge&logo=vite&logoColor=a78bfa)
+
+<br />
+
+<sub><strong>BACKEND &amp; DATA</strong></sub>
+<br /><br />
+
 ![PHP](https://img.shields.io/badge/PHP-0b1020?style=for-the-badge&logo=php&logoColor=a78bfa)
 ![Python](https://img.shields.io/badge/Python-0b1020?style=for-the-badge&logo=python&logoColor=5eead4)
+![FastAPI](https://img.shields.io/badge/FastAPI-0b1020?style=for-the-badge&logo=fastapi&logoColor=34d399)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b1020?style=for-the-badge&logo=postgresql&logoColor=60a5fa)
+
+<br />
+
+<sub><strong>DESIGN &amp; WORKFLOW</strong></sub>
+<br /><br />
+
 ![Git](https://img.shields.io/badge/Git-0b1020?style=for-the-badge&logo=git&logoColor=fb923c)
+![GitHub](https://img.shields.io/badge/GitHub-0b1020?style=for-the-badge&logo=github&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/Docker-0b1020?style=for-the-badge&logo=docker&logoColor=38bdf8)
+![VS Code](https://img.shields.io/badge/VS_Code-0b1020?style=for-the-badge&logo=visualstudiocode&logoColor=60a5fa)
 ![Figma](https://img.shields.io/badge/Figma-0b1020?style=for-the-badge&logo=figma&logoColor=fb7185)
 ![Canva](https://img.shields.io/badge/Canva-0b1020?style=for-the-badge&logo=canva&logoColor=5eead4)
+![OpenAI](https://img.shields.io/badge/OpenAI-0b1020?style=for-the-badge&logo=openai&logoColor=ffffff)
 
 </div>
 
@@ -52,6 +76,6 @@ I’m a creative developer and interface designer from the Philippines, turning 
 
 <a href="https://josephinesantander.vercel.app"><strong>Portfolio</strong></a> · <a href="https://github.com/josntndr"><strong>GitHub</strong></a> · <a href="https://www.linkedin.com/in/josephine-santander-796883357"><strong>LinkedIn</strong></a>
 
-<sub>This profile refreshes automatically every day with the latest public repository data.</sub>
+<sub>Designing with intention, learning with curiosity, and growing through every experience.</sub>
 
 </div>
