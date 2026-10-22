@@ -1,4 +1,4 @@
-name: Refresh Project Pulse
+name: Refresh Creative Compass
 
 on:
   schedule:
@@ -9,14 +9,14 @@ permissions:
   contents: write
 
 concurrency:
-  group: project-pulse-refresh
+  group: creative-compass-refresh
   cancel-in-progress: true
 
 jobs:
   refresh:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out profile repository
+      - name: Check out profile files
         uses: actions/checkout@v4
 
       - name: Set up Node.js
@@ -24,20 +24,17 @@ jobs:
         with:
           node-version: 20
 
-      - name: Refresh Project Pulse
+      - name: Refresh Creative Compass
         run: node scripts/update-profile.mjs
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          PROFILE_USERNAME: josntndr
 
       - name: Commit refreshed profile
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md assets/project-pulse.svg
+          git add README.md assets/creative-compass.svg
           if git diff --cached --quiet; then
             echo "Profile is already current."
             exit 0
           fi
-          git commit -m "chore: refresh Project Pulse"
+          git commit -m "chore: refresh Creative Compass"
           git push

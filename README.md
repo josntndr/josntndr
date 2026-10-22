@@ -16,15 +16,13 @@ I’m a creative developer and interface designer from the Philippines, turning 
 
 <img src="./assets/profile-strip.svg" alt="Based in Imus, Cavite; studying at FEU Institute of Technology; currently designing, building, and shipping" width="100%" />
 
-## Project Pulse
+## Creative Compass
 
-<!-- PROJECT-PULSE:START -->
-<a href="https://github.com/josntndr/my-portfolio">
-  <img src="./assets/project-pulse.svg" alt="Latest project spotlight and recent GitHub project trail" width="100%" />
-</a>
+<!-- CREATIVE-COMPASS:START -->
+<img src="./assets/creative-compass.svg" alt="Daily creative direction guided by clarity, empathy, and curiosity" width="100%" />
 
-<p align="center"><sub>Automatically curated from my latest public builds. Select the pulse to open the newest repository.</sub></p>
-<!-- PROJECT-PULSE:END -->
+<p align="center"><sub>A daily creative direction, refreshed in Manila time.</sub></p>
+<!-- CREATIVE-COMPASS:END -->
 
 ## Selected Work
 
