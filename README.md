@@ -12,15 +12,9 @@
 
 ## Hello, I'm Josephine
 
-I’m a creative developer and interface designer from the Philippines. I turn ideas into clear, useful digital products—combining thoughtful UX, clean frontend work, and AI-assisted workflows.
+I’m a creative developer and interface designer from the Philippines, turning ideas into useful digital products through thoughtful UX, clean frontend work, and AI-assisted workflows.
 
-<table>
-  <tr>
-    <td width="33%"><strong>Based in</strong><br />Imus, Cavite 🇵🇭</td>
-    <td width="33%"><strong>Studying at</strong><br />FEU Institute of Technology</td>
-    <td width="33%"><strong>Current mode</strong><br />Designing · Building · Shipping</td>
-  </tr>
-</table>
+<img src="./assets/profile-strip.svg" alt="Based in Imus, Cavite; studying at FEU Institute of Technology; currently designing, building, and shipping" width="100%" />
 
 ## Live Dashboard
 
