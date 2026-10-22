@@ -53,7 +53,7 @@ I’m a creative developer and interface designer from the Philippines, turning 
 ![Git](https://img.shields.io/badge/Git-0b1020?style=for-the-badge&logo=git&logoColor=fb923c)
 ![GitHub](https://img.shields.io/badge/GitHub-0b1020?style=for-the-badge&logo=github&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/Docker-0b1020?style=for-the-badge&logo=docker&logoColor=38bdf8)
-![VS Code](https://img.shields.io/badge/VS_Code-0b1020?style=for-the-badge&logo=visualstudiocode&logoColor=60a5fa)
+<a href="https://antigravity.google/" title="Google Antigravity"><img src="./assets/antigravity-badge.svg" alt="Google Antigravity" /></a>
 ![Figma](https://img.shields.io/badge/Figma-0b1020?style=for-the-badge&logo=figma&logoColor=fb7185)
 ![Canva](https://img.shields.io/badge/Canva-0b1020?style=for-the-badge&logo=canva&logoColor=5eead4)
 ![OpenAI](https://img.shields.io/badge/OpenAI-0b1020?style=for-the-badge&logo=openai&logoColor=ffffff)
