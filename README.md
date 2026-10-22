@@ -55,8 +55,8 @@ I’m a creative developer and interface designer from the Philippines, turning 
 ![Docker](https://img.shields.io/badge/Docker-0b1020?style=for-the-badge&logo=docker&logoColor=38bdf8)
 <a href="https://antigravity.google/" title="Google Antigravity"><img src="./assets/antigravity-badge.svg" alt="Google Antigravity" /></a>
 ![Figma](https://img.shields.io/badge/Figma-0b1020?style=for-the-badge&logo=figma&logoColor=fb7185)
-<a href="https://www.canva.com/" title="Canva"><img src="./assets/canva-badge.svg" alt="Canva" /></a>
-<a href="https://openai.com/" title="OpenAI"><img src="./assets/openai-badge.svg" alt="OpenAI" /></a>
+<a href="https://www.canva.com/" title="Canva"><img src="./assets/canva-badge.svg?v=2" alt="Canva" /></a>
+<a href="https://openai.com/" title="OpenAI"><img src="./assets/openai-badge.svg?v=2" alt="OpenAI" /></a>
 
 </div>
 
