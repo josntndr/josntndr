@@ -20,28 +20,6 @@ I’m a creative developer and interface designer from the Philippines, turning 
 
 <img src="./assets/leadership.svg" alt="Leadership experience across FEU Tech ACM, JPCS FEU Tech, and FEU Tech CS Expo" width="100%" />
 
-## Selected Work
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🏃 Strive</h3>
-      <p>A fitness and meal-planning web app designed to make healthy routines easier to manage.</p>
-      <p><a href="https://github.com/josntndr/strive"><strong>Source</strong></a> · <a href="https://strive-fitness-app.vercel.app/"><strong>Live app</strong></a></p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>✨ Extract AI</h3>
-      <p>An AI document-intelligence platform for OCR, structured extraction, tables, and batch work.</p>
-      <p><a href="https://github.com/josntndr/extract-ai"><strong>Explore project</strong></a></p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🏝️ Beach Paradise</h3>
-      <p>A computer graphics and visual computing project that builds an interactive summer scene.</p>
-      <p><a href="https://github.com/josntndr/summer-beach-paradise"><strong>Explore project</strong></a></p>
-    </td>
-  </tr>
-</table>
-
 ## Creative Toolkit
 
 <div align="center">
