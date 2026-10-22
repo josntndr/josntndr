@@ -1,0 +1,64 @@
+<svg width="1200" height="250" viewBox="0 0 1200 250" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" text-rendering="geometricPrecision">
+  <title id="title">Let's make something useful</title>
+  <desc id="desc">Contact Josephine Santander at santanderjosephine24@gmail.com.</desc>
+  <defs>
+    <linearGradient id="panel" x1="22" y1="18" x2="1174" y2="236" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#081221"/>
+      <stop offset="0.54" stop-color="#11152B"/>
+      <stop offset="1" stop-color="#241338"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="56" y1="0" x2="1110" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5EEAD4"/>
+      <stop offset="0.52" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#FB7185"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1030 112) rotate(180) scale(350 260)">
+      <stop stop-color="#8B5CF6" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+    <style>
+      text { font-family: Inter, Segoe UI, Arial, sans-serif; }
+      .mono { font-family: ui-monospace, SFMono-Regular, Consolas, monospace; }
+    </style>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="248" rx="24" fill="url(#panel)" stroke="#334155" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="248" rx="24" fill="url(#glow)"/>
+  <path d="M56 224H1144" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+
+  <g transform="translate(58 40)">
+    <circle cx="6" cy="6" r="6" fill="#5EEAD4" opacity="0.35" filter="url(#softGlow)"/>
+    <circle cx="6" cy="6" r="4" fill="#5EEAD4">
+      <animate attributeName="opacity" values="0.45;1;0.45" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <text x="22" y="11" fill="#99F6E4" font-size="12" font-weight="700" letter-spacing="2.1" class="mono">OPEN TO COLLABORATION</text>
+  </g>
+
+  <text x="58" y="103" fill="#F8FAFC" font-size="37" font-weight="750" letter-spacing="-0.8">Let’s make something useful.</text>
+  <text x="58" y="136" fill="#AEBBD0" font-size="16">Have an idea, opportunity, or thoughtful project in mind? Let’s connect.</text>
+
+  <g transform="translate(58 157)">
+    <rect width="408" height="46" rx="13" fill="#070C18" fill-opacity="0.86" stroke="#5EEAD4" stroke-opacity="0.42"/>
+    <rect x="12" y="10" width="26" height="26" rx="8" fill="#12303A"/>
+    <path d="M18 17.5L25 22.5L32 17.5M18 17.5V28.5H32V17.5H18Z" stroke="#5EEAD4" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="50" y="29" fill="#F8FAFC" font-size="14" font-weight="650" class="mono">santanderjosephine24@gmail.com</text>
+    <path d="M381 18L387 23L381 28M387 23H374" stroke="#A78BFA" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <g transform="translate(979 123)">
+    <circle r="76" stroke="#A78BFA" stroke-opacity="0.16"/>
+    <circle r="54" stroke="#5EEAD4" stroke-opacity="0.19" stroke-dasharray="4 7">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="18s" repeatCount="indefinite"/>
+    </circle>
+    <path d="M-81 10C-35-45 27-61 82-13" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" opacity="0.7"/>
+    <circle cx="-67" cy="-4" r="5" fill="#5EEAD4"/>
+    <circle cx="66" cy="-25" r="5" fill="#FB7185"/>
+    <circle cx="35" cy="57" r="4" fill="#A78BFA"/>
+    <circle r="34" fill="#0B1020" stroke="#475569"/>
+    <path d="M-10 0H10M4-6L10 0L4 6" stroke="#F8FAFC" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="0" y="94" fill="#CBD5E1" font-size="11" font-weight="700" text-anchor="middle" letter-spacing="2" class="mono">LET’S TALK</text>
+  </g>
+</svg>

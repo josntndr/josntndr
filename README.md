@@ -72,11 +72,20 @@ I’m a creative developer and interface designer from the Philippines, turning 
 
 </div>
 
+## Let's Connect
+
 <div align="center">
 
-### Let’s make something useful.
+<a href="mailto:santanderjosephine24@gmail.com" title="Email Josephine">
+  <img width="100%" src="./assets/contact-panel.svg" alt="Contact Josephine at santanderjosephine24@gmail.com" />
+</a>
 
-<a href="https://josephinesantander.vercel.app"><strong>Portfolio</strong></a> · <a href="https://github.com/josntndr"><strong>GitHub</strong></a> · <a href="https://www.linkedin.com/in/josephine-santander-796883357"><strong>LinkedIn</strong></a>
+<br />
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0b1020?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://josephinesantander.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-0b1020?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/josntndr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0b1020?style=for-the-badge&logo=linkedin&logoColor=60a5fa)](https://www.linkedin.com/in/josephine-santander-796883357)
+[![Email](https://img.shields.io/badge/Email-Send_a_message-0b1020?style=for-the-badge&logo=gmail&logoColor=fb7185)](mailto:santanderjosephine24@gmail.com)
 
 <sub>Designing with intention, learning with curiosity, and growing through every experience.</sub>
 
