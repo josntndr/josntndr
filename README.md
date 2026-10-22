@@ -16,49 +16,15 @@ I’m a creative developer and interface designer from the Philippines, turning 
 
 <img src="./assets/profile-strip.svg" alt="Based in Imus, Cavite; studying at FEU Institute of Technology; currently designing, building, and shipping" width="100%" />
 
-## Live Dashboard
+## Project Pulse
 
-<!-- PROFILE-DASHBOARD:START -->
-<p align="right"><sub>Auto-refreshed daily · Last sync: <strong>22 Oct 2026 UTC</strong></sub></p>
+<!-- PROJECT-PULSE:START -->
+<a href="https://github.com/josntndr/my-portfolio">
+  <img src="./assets/project-pulse.svg" alt="Latest project spotlight and recent GitHub project trail" width="100%" />
+</a>
 
-<table>
-  <tr>
-    <td align="center" width="25%"><strong>13</strong><br /><sub>public repositories</sub></td>
-    <td align="center" width="25%"><strong>12</strong><br /><sub>active projects</sub></td>
-    <td align="center" width="25%"><strong>7</strong><br /><sub>technologies</sub></td>
-    <td align="center" width="25%"><strong>05 Oct 2026</strong><br /><sub>latest project push</sub></td>
-  </tr>
-</table>
-
-### Recently Updated
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/josntndr/my-portfolio">my-portfolio ↗</a></h3>
-      <p>A CSS project by Josephine.</p>
-      <p><code>CSS</code> · Updated 05 Oct 2026</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/josntndr/strive">strive ↗</a></h3>
-      <p>Strive - fitness and meal planning web app</p>
-      <p><code>JavaScript</code> · Updated 14 Sept 2026 · <a href="https://strive-fitness-app.vercel.app/">Live demo</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/josntndr/Kwarta">Kwarta ↗</a></h3>
-      <p>A PHP project by Josephine.</p>
-      <p><code>PHP</code> · Updated 08 Sept 2026</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/josntndr/vone-trucking-mobile">vone-trucking-mobile ↗</a></h3>
-      <p>A TypeScript project by Josephine.</p>
-      <p><code>TypeScript</code> · Updated 01 Sept 2026</p>
-    </td>
-  </tr>
-</table>
-<!-- PROFILE-DASHBOARD:END -->
+<p align="center"><sub>Automatically curated from my latest public builds. Select the pulse to open the newest repository.</sub></p>
+<!-- PROJECT-PULSE:END -->
 
 ## Selected Work
 

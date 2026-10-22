@@ -1,0 +1,72 @@
+<svg width="1200" height="310" viewBox="0 0 1200 310" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" text-rendering="geometricPrecision">
+  <title id="title">Josephine&apos;s current project pulse</title>
+  <desc id="desc">The latest repository and three recently updated projects, curated automatically from GitHub.</desc>
+  <defs>
+    <linearGradient id="background" x1="22" y1="18" x2="1178" y2="292" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#08111F"/>
+      <stop offset="0.55" stop-color="#10152A"/>
+      <stop offset="1" stop-color="#1B1025"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="30" y1="170" x2="638" y2="170" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5EEAD4"/>
+      <stop offset="0.5" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#FB7185"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1034 26) rotate(139) scale(300 390)">
+      <stop stop-color="#8B5CF6" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <style>text { opacity: 0.999; }</style>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="308" rx="24" fill="url(#background)" stroke="#334155" stroke-opacity="0.76" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="308" rx="24" fill="url(#glow)"/>
+  <text x="40" y="49" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="20" font-weight="800" letter-spacing="0.4">PROJECT PULSE</text>
+  <text x="1160" y="48" fill="#94A3B8" font-family="Consolas, monospace" font-size="12" text-anchor="end">SYNCED 22 OCT 2026 UTC</text>
+
+  <g transform="translate(36 72)">
+    <rect width="670" height="210" rx="19" fill="#080D19" stroke="#5EEAD4" stroke-opacity="0.24"/>
+    <circle cx="31" cy="31" r="5" fill="#38BDF8"/>
+    <circle cx="31" cy="31" r="8" fill="none" stroke="#38BDF8" stroke-width="1.5">
+      <animate attributeName="r" values="8;18;8" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.8;0;0.8" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="55" y="36" fill="#94A3B8" font-family="Consolas, monospace" font-size="12" font-weight="700" letter-spacing="1.2">CURRENT SIGNAL</text>
+    <text x="30" y="94" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="38" font-weight="800" letter-spacing="-0.6">my-portfolio</text>
+    <rect x="30" y="112" width="90" height="29" rx="14.5" fill="#38BDF8" fill-opacity="0.12" stroke="#38BDF8" stroke-opacity="0.45"/>
+    <text x="75" y="131" fill="#38BDF8" font-family="Arial, sans-serif" font-size="12" font-weight="700" text-anchor="middle">CSS</text>
+    <text x="138" y="131" fill="#CBD5E1" font-family="Consolas, monospace" font-size="12">UPDATED 05 OCT 2026</text>
+    <path d="M30 169H70L83 157L97 182L113 148L129 174L143 164H187L201 154L215 178L231 151L247 169H638" stroke="#1E293B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M30 169H70L83 157L97 182L113 148L129 174L143 164H187L201 154L215 178L231 151L247 169H638" stroke="url(#signal)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 12">
+      <animate attributeName="stroke-dashoffset" from="0" to="-44" dur="1.6s" repeatCount="indefinite"/>
+    </path>
+    <text x="30" y="198" fill="#64748B" font-family="Consolas, monospace" font-size="11" letter-spacing="0.8">SELECT TO OPEN THE LATEST REPOSITORY &#8599;</text>
+  </g>
+
+  <g transform="translate(730 72)">
+    <rect width="434" height="210" rx="19" fill="#080D19" stroke="#A78BFA" stroke-opacity="0.25"/>
+    <text x="28" y="36" fill="#C4B5FD" font-family="Consolas, monospace" font-size="12" font-weight="700" letter-spacing="1.2">RECENT TRAIL</text>
+    <path d="M30 77V183" stroke="#334155" stroke-width="2" stroke-dasharray="3 7"/>
+    <g transform="translate(0 77)">
+      <circle cx="30" cy="0" r="5" fill="#FACC15">
+        <animate attributeName="r" values="4;7;4" dur="2.4s" begin="0s" repeatCount="indefinite"/>
+      </circle>
+      <text x="54" y="-2" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="17" font-weight="700">strive</text>
+      <text x="54" y="19" fill="#94A3B8" font-family="Consolas, monospace" font-size="12">JavaScript &#183; 14 Sept 2026</text>
+    </g>
+    <g transform="translate(0 130)">
+      <circle cx="30" cy="0" r="5" fill="#A78BFA">
+        <animate attributeName="r" values="4;7;4" dur="2.4s" begin="0.4s" repeatCount="indefinite"/>
+      </circle>
+      <text x="54" y="-2" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="17" font-weight="700">Kwarta</text>
+      <text x="54" y="19" fill="#94A3B8" font-family="Consolas, monospace" font-size="12">PHP &#183; 08 Sept 2026</text>
+    </g>
+    <g transform="translate(0 183)">
+      <circle cx="30" cy="0" r="5" fill="#60A5FA">
+        <animate attributeName="r" values="4;7;4" dur="2.4s" begin="0.8s" repeatCount="indefinite"/>
+      </circle>
+      <text x="54" y="-2" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="17" font-weight="700">vone-trucking-mobile</text>
+      <text x="54" y="19" fill="#94A3B8" font-family="Consolas, monospace" font-size="12">TypeScript &#183; 01 Sept 2026</text>
+    </g>
+  </g>
+</svg>
