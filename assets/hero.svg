@@ -1,7 +1,11 @@
-<svg width="1200" height="390" viewBox="0 0 1200 390" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="1200" height="390" viewBox="0 0 1200 390" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" text-rendering="geometricPrecision">
   <title id="title">Josephine Santander — creative developer and interface designer</title>
   <desc id="desc">A refined dark portfolio banner with soft violet, teal, and coral accents.</desc>
   <defs>
+    <style>
+      text { opacity: 0.999; }
+      .display { paint-order: stroke; stroke: #F8FAFC; stroke-width: 0.35px; stroke-linejoin: round; }
+    </style>
     <linearGradient id="background" x1="30" y1="20" x2="1170" y2="370" gradientUnits="userSpaceOnUse">
       <stop stop-color="#0B1020"/>
       <stop offset="0.56" stop-color="#11162A"/>
@@ -42,9 +46,9 @@
   </g>
 
   <g transform="translate(72 145)">
-    <text x="0" y="0" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="53" font-weight="800" letter-spacing="-1.5">Clear ideas.</text>
-    <text x="0" y="61" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="53" font-weight="800" letter-spacing="-1.5">Thoughtful interfaces.</text>
-    <text x="2" y="110" fill="#CBD5E1" font-family="Arial, sans-serif" font-size="19">Designing useful digital products from first sketch to final ship.</text>
+    <text class="display" x="0" y="0" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="51" font-weight="800" letter-spacing="-1.2">Clear ideas.</text>
+    <text class="display" x="0" y="59" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="51" font-weight="800" letter-spacing="-1.2">Thoughtful interfaces.</text>
+    <text x="2" y="108" fill="#CBD5E1" font-family="Arial, sans-serif" font-size="18">Designing useful digital products from first sketch to final ship.</text>
   </g>
 
   <g transform="translate(72 308)" font-family="Arial, sans-serif" font-size="12" font-weight="700">
@@ -64,26 +68,26 @@
     <text x="310" y="30" fill="#64748B" font-family="Consolas, monospace" font-size="11" text-anchor="end">build.flow</text>
     <path d="M20 50H314" stroke="#334155" stroke-opacity="0.75"/>
 
-    <g transform="translate(28 78)" font-family="Arial, sans-serif">
+    <g transform="translate(28 75)" font-family="Arial, sans-serif">
       <circle cx="14" cy="10" r="10" fill="#5EEAD4" fill-opacity="0.14" stroke="#5EEAD4"/>
       <path d="M9 10L12.5 13.5L19 7" stroke="#5EEAD4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
       <text x="40" y="15" fill="#E2E8F0" font-size="14" font-weight="700">Discover the real need</text>
 
-      <circle cx="14" cy="52" r="10" fill="#A78BFA" fill-opacity="0.14" stroke="#A78BFA"/>
-      <path d="M9 52L12.5 55.5L19 49" stroke="#C4B5FD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-      <text x="40" y="57" fill="#E2E8F0" font-size="14" font-weight="700">Design the clear path</text>
+      <circle cx="14" cy="48" r="10" fill="#A78BFA" fill-opacity="0.14" stroke="#A78BFA"/>
+      <path d="M9 48L12.5 51.5L19 45" stroke="#C4B5FD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="40" y="53" fill="#E2E8F0" font-size="14" font-weight="700">Design the clear path</text>
 
-      <circle cx="14" cy="94" r="10" fill="#FB7185" fill-opacity="0.14" stroke="#FB7185"/>
-      <path d="M9 94L12.5 97.5L19 91" stroke="#FDA4AF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-      <text x="40" y="99" fill="#E2E8F0" font-size="14" font-weight="700">Build with intention</text>
+      <circle cx="14" cy="86" r="10" fill="#FB7185" fill-opacity="0.14" stroke="#FB7185"/>
+      <path d="M9 86L12.5 89.5L19 83" stroke="#FDA4AF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="40" y="91" fill="#E2E8F0" font-size="14" font-weight="700">Build with intention</text>
 
-      <circle cx="14" cy="136" r="10" fill="#FACC15" fill-opacity="0.14" stroke="#FACC15"/>
-      <circle cx="14" cy="136" r="3.5" fill="#FACC15"/>
-      <text x="40" y="141" fill="#F8FAFC" font-size="14" font-weight="700">Refine &amp; ship</text>
+      <circle cx="14" cy="124" r="10" fill="#FACC15" fill-opacity="0.14" stroke="#FACC15"/>
+      <circle cx="14" cy="124" r="3.5" fill="#FACC15"/>
+      <text x="40" y="129" fill="#F8FAFC" font-size="14" font-weight="700">Refine &amp; ship</text>
     </g>
 
-    <rect x="28" y="222" width="278" height="4" rx="2" fill="#1E293B"/>
-    <rect x="28" y="222" width="231" height="4" rx="2" fill="url(#accent)"/>
+    <rect x="28" y="224" width="278" height="4" rx="2" fill="#1E293B"/>
+    <rect x="28" y="224" width="218" height="4" rx="2" fill="url(#accent)"/>
   </g>
 
   <path d="M72 365H1128" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
