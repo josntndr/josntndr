@@ -82,10 +82,10 @@ I’m a creative developer and interface designer from the Philippines, turning 
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0b1020?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://josephinesantander.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-0b1020?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/josntndr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0b1020?style=for-the-badge&logo=linkedin&logoColor=60a5fa)](https://www.linkedin.com/in/josephine-santander-796883357)
-[![Email](https://img.shields.io/badge/Email-Send_a_message-0b1020?style=for-the-badge&logo=gmail&logoColor=fb7185)](mailto:santanderjosephine24@gmail.com)
+<a href="https://josephinesantander.vercel.app" title="Visit my portfolio"><img src="./assets/portfolio-link.svg" alt="Portfolio" /></a>
+<a href="https://github.com/josntndr" title="View my GitHub"><img src="./assets/github-link.svg" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/josephine-santander-796883357" title="Connect on LinkedIn"><img src="./assets/linkedin-link.svg" alt="LinkedIn" /></a>
+<a href="mailto:santanderjosephine24@gmail.com" title="Send me an email"><img src="./assets/email-link.svg" alt="Email" /></a>
 
 <sub>Designing with intention, learning with curiosity, and growing through every experience.</sub>
 

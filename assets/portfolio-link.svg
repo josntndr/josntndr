@@ -1,0 +1,8 @@
+<svg width="132" height="34" viewBox="0 0 132 34" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Portfolio</title>
+  <desc id="desc">Open Josephine&apos;s portfolio</desc>
+  <rect x="0.5" y="0.5" width="131" height="33" rx="8.5" fill="#0B1020" stroke="#334155"/>
+  <rect x="5" y="5" width="24" height="24" rx="7" fill="#182132"/>
+  <path d="M17 9L25 23H9L17 9Z" fill="#F8FAFC"/>
+  <text x="39" y="21.5" fill="#F8FAFC" font-family="Verdana,DejaVu Sans,sans-serif" font-size="10" font-weight="700" letter-spacing="1.2">PORTFOLIO</text>
+</svg>
