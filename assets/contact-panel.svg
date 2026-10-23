@@ -1,23 +1,23 @@
-<svg width="1200" height="250" viewBox="0 0 1200 250" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" text-rendering="geometricPrecision">
-  <title id="title">Let's make something useful</title>
-  <desc id="desc">Contact Josephine Santander at santanderjosephine24@gmail.com.</desc>
+<svg width="1200" height="280" viewBox="0 0 1200 280" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" text-rendering="geometricPrecision">
+  <title id="title">Let&apos;s make something useful</title>
+  <desc id="desc">Contact Josephine Santander at santanderjosephine24@gmail.com for design, development, and collaboration opportunities.</desc>
   <defs>
-    <linearGradient id="panel" x1="22" y1="18" x2="1174" y2="236" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#081221"/>
+    <linearGradient id="panel" x1="18" y1="18" x2="1184" y2="262" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
       <stop offset="0.54" stop-color="#11152B"/>
-      <stop offset="1" stop-color="#241338"/>
+      <stop offset="1" stop-color="#241438"/>
     </linearGradient>
-    <linearGradient id="accent" x1="56" y1="0" x2="1110" y2="0" gradientUnits="userSpaceOnUse">
+    <linearGradient id="accent" x1="50" y1="0" x2="1150" y2="0" gradientUnits="userSpaceOnUse">
       <stop stop-color="#5EEAD4"/>
       <stop offset="0.52" stop-color="#A78BFA"/>
       <stop offset="1" stop-color="#FB7185"/>
     </linearGradient>
-    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1030 112) rotate(180) scale(350 260)">
-      <stop stop-color="#8B5CF6" stop-opacity="0.24"/>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1020 98) rotate(163) scale(390 300)">
+      <stop stop-color="#8B5CF6" stop-opacity="0.2"/>
       <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
     </radialGradient>
-    <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%">
-      <feGaussianBlur stdDeviation="6"/>
+    <filter id="statusGlow" x="-200%" y="-200%" width="500%" height="500%">
+      <feGaussianBlur stdDeviation="4"/>
     </filter>
     <style>
       text { font-family: Inter, Segoe UI, Arial, sans-serif; }
@@ -25,40 +25,45 @@
     </style>
   </defs>
 
-  <rect x="1" y="1" width="1198" height="248" rx="24" fill="url(#panel)" stroke="#334155" stroke-width="2"/>
-  <rect x="1" y="1" width="1198" height="248" rx="24" fill="url(#glow)"/>
-  <path d="M56 224H1144" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+  <rect x="1" y="1" width="1198" height="278" rx="24" fill="url(#panel)" stroke="#334155" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="278" rx="24" fill="url(#glow)"/>
 
-  <g transform="translate(58 40)">
-    <circle cx="6" cy="6" r="6" fill="#5EEAD4" opacity="0.35" filter="url(#softGlow)"/>
-    <circle cx="6" cy="6" r="4" fill="#5EEAD4">
-      <animate attributeName="opacity" values="0.45;1;0.45" dur="2.4s" repeatCount="indefinite"/>
+  <g transform="translate(54 43)">
+    <rect width="236" height="28" rx="14" fill="#0B1D28" stroke="#5EEAD4" stroke-opacity="0.28"/>
+    <circle cx="17" cy="14" r="7" fill="#5EEAD4" opacity="0.16" filter="url(#statusGlow)"/>
+    <circle cx="17" cy="14" r="4" fill="#5EEAD4">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="2.4s" repeatCount="indefinite"/>
     </circle>
-    <text x="22" y="11" fill="#99F6E4" font-size="12" font-weight="700" letter-spacing="2.1" class="mono">OPEN TO COLLABORATION</text>
+    <text x="31" y="18" fill="#99F6E4" font-size="11" font-weight="700" letter-spacing="1.7" class="mono">OPEN TO COLLABORATION</text>
   </g>
 
-  <text x="58" y="103" fill="#F8FAFC" font-size="37" font-weight="750" letter-spacing="-0.8">Let’s make something useful.</text>
-  <text x="58" y="136" fill="#AEBBD0" font-size="16">Have an idea, opportunity, or thoughtful project in mind? Let’s connect.</text>
+  <text x="54" y="117" fill="#F8FAFC" font-size="38" font-weight="750" letter-spacing="-0.8">Let&apos;s make something useful.</text>
+  <text x="54" y="151" fill="#B6C3D6" font-size="16">Have an idea, opportunity, or thoughtful project in mind?</text>
+  <text x="54" y="176" fill="#B6C3D6" font-size="16">Share the context, and let&apos;s find the clearest way forward.</text>
 
-  <g transform="translate(58 157)">
-    <rect width="408" height="46" rx="13" fill="#070C18" fill-opacity="0.86" stroke="#5EEAD4" stroke-opacity="0.42"/>
-    <rect x="12" y="10" width="26" height="26" rx="8" fill="#12303A"/>
-    <path d="M18 17.5L25 22.5L32 17.5M18 17.5V28.5H32V17.5H18Z" stroke="#5EEAD4" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-    <text x="50" y="29" fill="#F8FAFC" font-size="14" font-weight="650" class="mono">santanderjosephine24@gmail.com</text>
-    <path d="M381 18L387 23L381 28M387 23H374" stroke="#A78BFA" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <g transform="translate(54 208)">
+    <path d="M2 8.5C2 5.46 4.46 3 7.5 3S13 5.46 13 8.5C13 12.5 7.5 17 7.5 17S2 12.5 2 8.5Z" stroke="#A78BFA" stroke-width="1.5"/>
+    <circle cx="7.5" cy="8.5" r="1.8" fill="#A78BFA"/>
+    <text x="24" y="14" fill="#94A3B8" font-size="12" letter-spacing="0.4">Imus, Cavite PH</text>
+    <circle cx="142" cy="9" r="2" fill="#475569"/>
+    <text x="156" y="14" fill="#94A3B8" font-size="12" letter-spacing="0.4">Available for remote collaboration</text>
   </g>
 
-  <g transform="translate(979 123)">
-    <circle r="76" stroke="#A78BFA" stroke-opacity="0.16"/>
-    <circle r="54" stroke="#5EEAD4" stroke-opacity="0.19" stroke-dasharray="4 7">
-      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="18s" repeatCount="indefinite"/>
-    </circle>
-    <path d="M-81 10C-35-45 27-61 82-13" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" opacity="0.7"/>
-    <circle cx="-67" cy="-4" r="5" fill="#5EEAD4"/>
-    <circle cx="66" cy="-25" r="5" fill="#FB7185"/>
-    <circle cx="35" cy="57" r="4" fill="#A78BFA"/>
-    <circle r="34" fill="#0B1020" stroke="#475569"/>
-    <path d="M-10 0H10M4-6L10 0L4 6" stroke="#F8FAFC" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-    <text x="0" y="94" fill="#CBD5E1" font-size="11" font-weight="700" text-anchor="middle" letter-spacing="2" class="mono">LET’S TALK</text>
+  <g transform="translate(704 40)">
+    <rect width="440" height="190" rx="20" fill="#070C18" fill-opacity="0.86" stroke="#475569" stroke-opacity="0.8"/>
+    <text x="26" y="34" fill="#C4B5FD" font-size="11" font-weight="700" letter-spacing="1.8" class="mono">DIRECT CONTACT</text>
+    <text x="26" y="69" fill="#F8FAFC" font-size="22" font-weight="750">Start a conversation</text>
+    <text x="26" y="94" fill="#94A3B8" font-size="13">Email is the fastest way to reach me.</text>
+
+    <g transform="translate(20 112)">
+      <rect width="400" height="56" rx="14" fill="#0A1724" stroke="#5EEAD4" stroke-opacity="0.44"/>
+      <rect x="12" y="11" width="34" height="34" rx="10" fill="#10303A"/>
+      <path d="M19 21L29 28L39 21M19 21V36H39V21H19Z" stroke="#5EEAD4" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="59" y="34" fill="#F8FAFC" font-size="14" font-weight="650" class="mono">santanderjosephine24@gmail.com</text>
+      <circle cx="374" cy="28" r="15" fill="#17152A" stroke="#A78BFA" stroke-opacity="0.45"/>
+      <path d="M368 28H380M376 23L381 28L376 33" stroke="#C4B5FD" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
   </g>
+
+  <path d="M54 257H1146" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
 </svg>
