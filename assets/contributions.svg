@@ -1,5 +1,5 @@
 <svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" text-rendering="geometricPrecision">
-  <title id="title">262 GitHub contributions in the last year</title>
+  <title id="title">773 GitHub contributions in the last year</title>
   <desc id="desc">Official rolling-year contribution calendar for josntndr, sourced directly from GitHub.</desc>
   <defs>
     <linearGradient id="panel" x1="12" y1="12" x2="1188" y2="288" gradientUnits="userSpaceOnUse">
@@ -21,7 +21,7 @@
   <path d="M52 282H1148" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
   <circle cx="58" cy="39" r="4" fill="#5EEAD4"/>
   <text x="74" y="44" fill="#99F6E4" font-size="12" font-weight="700" letter-spacing="2" class="mono">OFFICIAL GITHUB ACTIVITY</text>
-  <text x="52" y="77" fill="#F8FAFC" font-size="25" font-weight="750">262 contributions</text>
+  <text x="52" y="77" fill="#F8FAFC" font-size="25" font-weight="750">773 contributions</text>
   <text x="1148" y="42" fill="#94A3B8" font-size="11" text-anchor="end" letter-spacing="1.2" class="mono">AUTO-SYNC · EVERY 30 MINUTES</text>
   <text x="1148" y="68" fill="#CBD5E1" font-size="12" text-anchor="end">Latest contribution · 23 Oct 2026</text>
   <text x="130" y="98" fill="#94A3B8" font-size="11" class="mono">Nov</text>
@@ -741,7 +741,7 @@
   <rect x="706" y="146" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
     <title>2 contributions on 09 Jun 2026</title>
   </rect>
-  <rect x="706" y="164" width="14" height="14" rx="3" fill="#3B82F6" stroke="#FFFFFF" stroke-opacity="0.025">
+  <rect x="706" y="164" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
     <title>7 contributions on 10 Jun 2026</title>
   </rect>
   <rect x="706" y="182" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
@@ -792,7 +792,7 @@
   <rect x="742" y="200" width="14" height="14" rx="3" fill="#171B2B" stroke="#FFFFFF" stroke-opacity="0.025">
     <title>No contributions on 26 Jun 2026</title>
   </rect>
-  <rect x="742" y="218" width="14" height="14" rx="3" fill="#3B82F6" stroke="#FFFFFF" stroke-opacity="0.025">
+  <rect x="742" y="218" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
     <title>8 contributions on 27 Jun 2026</title>
   </rect>
   <rect x="760" y="110" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
@@ -846,7 +846,7 @@
   <rect x="796" y="146" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
     <title>1 contribution on 14 Jul 2026</title>
   </rect>
-  <rect x="796" y="164" width="14" height="14" rx="3" fill="#3B82F6" stroke="#FFFFFF" stroke-opacity="0.025">
+  <rect x="796" y="164" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
     <title>5 contributions on 15 Jul 2026</title>
   </rect>
   <rect x="796" y="182" width="14" height="14" rx="3" fill="#171B2B" stroke="#FFFFFF" stroke-opacity="0.025">
@@ -870,7 +870,7 @@
   <rect x="814" y="164" width="14" height="14" rx="3" fill="#171B2B" stroke="#FFFFFF" stroke-opacity="0.025">
     <title>No contributions on 22 Jul 2026</title>
   </rect>
-  <rect x="814" y="182" width="14" height="14" rx="3" fill="#3B82F6" stroke="#FFFFFF" stroke-opacity="0.025">
+  <rect x="814" y="182" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
     <title>5 contributions on 23 Jul 2026</title>
   </rect>
   <rect x="814" y="200" width="14" height="14" rx="3" fill="#171B2B" stroke="#FFFFFF" stroke-opacity="0.025">
@@ -912,7 +912,7 @@
   <rect x="850" y="164" width="14" height="14" rx="3" fill="#171B2B" stroke="#FFFFFF" stroke-opacity="0.025">
     <title>No contributions on 05 Aug 2026</title>
   </rect>
-  <rect x="850" y="182" width="14" height="14" rx="3" fill="#3B82F6" stroke="#FFFFFF" stroke-opacity="0.025">
+  <rect x="850" y="182" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
     <title>5 contributions on 06 Aug 2026</title>
   </rect>
   <rect x="850" y="200" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
@@ -936,26 +936,26 @@
   <rect x="868" y="182" width="14" height="14" rx="3" fill="#171B2B" stroke="#FFFFFF" stroke-opacity="0.025">
     <title>No contributions on 13 Aug 2026</title>
   </rect>
-  <rect x="868" y="200" width="14" height="14" rx="3" fill="#171B2B" stroke="#FFFFFF" stroke-opacity="0.025">
-    <title>No contributions on 14 Aug 2026</title>
+  <rect x="868" y="200" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
+    <title>2 contributions on 14 Aug 2026</title>
   </rect>
   <rect x="868" y="218" width="14" height="14" rx="3" fill="#171B2B" stroke="#FFFFFF" stroke-opacity="0.025">
     <title>No contributions on 15 Aug 2026</title>
   </rect>
-  <rect x="886" y="110" width="14" height="14" rx="3" fill="#171B2B" stroke="#FFFFFF" stroke-opacity="0.025">
-    <title>No contributions on 16 Aug 2026</title>
+  <rect x="886" y="110" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
+    <title>3 contributions on 16 Aug 2026</title>
   </rect>
-  <rect x="886" y="128" width="14" height="14" rx="3" fill="#171B2B" stroke="#FFFFFF" stroke-opacity="0.025">
-    <title>No contributions on 17 Aug 2026</title>
+  <rect x="886" y="128" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
+    <title>6 contributions on 17 Aug 2026</title>
   </rect>
   <rect x="886" y="146" width="14" height="14" rx="3" fill="#171B2B" stroke="#FFFFFF" stroke-opacity="0.025">
     <title>No contributions on 18 Aug 2026</title>
   </rect>
-  <rect x="886" y="164" width="14" height="14" rx="3" fill="#171B2B" stroke="#FFFFFF" stroke-opacity="0.025">
-    <title>No contributions on 19 Aug 2026</title>
+  <rect x="886" y="164" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
+    <title>1 contribution on 19 Aug 2026</title>
   </rect>
-  <rect x="886" y="182" width="14" height="14" rx="3" fill="#171B2B" stroke="#FFFFFF" stroke-opacity="0.025">
-    <title>No contributions on 20 Aug 2026</title>
+  <rect x="886" y="182" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
+    <title>1 contribution on 20 Aug 2026</title>
   </rect>
   <rect x="886" y="200" width="14" height="14" rx="3" fill="#171B2B" stroke="#FFFFFF" stroke-opacity="0.025">
     <title>No contributions on 21 Aug 2026</title>
@@ -972,7 +972,7 @@
   <rect x="904" y="146" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
     <title>1 contribution on 25 Aug 2026</title>
   </rect>
-  <rect x="904" y="164" width="14" height="14" rx="3" fill="#8B5CF6" stroke="#FFFFFF" stroke-opacity="0.025">
+  <rect x="904" y="164" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
     <title>11 contributions on 26 Aug 2026</title>
   </rect>
   <rect x="904" y="182" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
@@ -981,173 +981,173 @@
   <rect x="904" y="200" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
     <title>3 contributions on 28 Aug 2026</title>
   </rect>
-  <rect x="904" y="218" width="14" height="14" rx="3" fill="#3B82F6" stroke="#FFFFFF" stroke-opacity="0.025">
+  <rect x="904" y="218" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
     <title>7 contributions on 29 Aug 2026</title>
   </rect>
-  <rect x="922" y="110" width="14" height="14" rx="3" fill="#8B5CF6" stroke="#FFFFFF" stroke-opacity="0.025">
+  <rect x="922" y="110" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
     <title>11 contributions on 30 Aug 2026</title>
   </rect>
-  <rect x="922" y="128" width="14" height="14" rx="3" fill="#F472B6" stroke="#FFFFFF" stroke-opacity="0.025">
+  <rect x="922" y="128" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
     <title>15 contributions on 31 Aug 2026</title>
   </rect>
-  <rect x="922" y="146" width="14" height="14" rx="3" fill="#F472B6" stroke="#FFFFFF" stroke-opacity="0.025">
+  <rect x="922" y="146" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
     <title>15 contributions on 01 Sep 2026</title>
   </rect>
   <rect x="922" y="164" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
     <title>3 contributions on 02 Sep 2026</title>
   </rect>
-  <rect x="922" y="182" width="14" height="14" rx="3" fill="#171B2B" stroke="#FFFFFF" stroke-opacity="0.025">
-    <title>No contributions on 03 Sep 2026</title>
+  <rect x="922" y="182" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
+    <title>3 contributions on 03 Sep 2026</title>
   </rect>
-  <rect x="922" y="200" width="14" height="14" rx="3" fill="#171B2B" stroke="#FFFFFF" stroke-opacity="0.025">
-    <title>No contributions on 04 Sep 2026</title>
+  <rect x="922" y="200" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
+    <title>2 contributions on 04 Sep 2026</title>
   </rect>
-  <rect x="922" y="218" width="14" height="14" rx="3" fill="#171B2B" stroke="#FFFFFF" stroke-opacity="0.025">
-    <title>No contributions on 05 Sep 2026</title>
+  <rect x="922" y="218" width="14" height="14" rx="3" fill="#3B82F6" stroke="#FFFFFF" stroke-opacity="0.025">
+    <title>26 contributions on 05 Sep 2026</title>
   </rect>
-  <rect x="940" y="110" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
-    <title>3 contributions on 06 Sep 2026</title>
+  <rect x="940" y="110" width="14" height="14" rx="3" fill="#8B5CF6" stroke="#FFFFFF" stroke-opacity="0.025">
+    <title>45 contributions on 06 Sep 2026</title>
   </rect>
-  <rect x="940" y="128" width="14" height="14" rx="3" fill="#F472B6" stroke="#FFFFFF" stroke-opacity="0.025">
+  <rect x="940" y="128" width="14" height="14" rx="3" fill="#3B82F6" stroke="#FFFFFF" stroke-opacity="0.025">
     <title>23 contributions on 07 Sep 2026</title>
   </rect>
-  <rect x="940" y="146" width="14" height="14" rx="3" fill="#F472B6" stroke="#FFFFFF" stroke-opacity="0.025">
-    <title>18 contributions on 08 Sep 2026</title>
+  <rect x="940" y="146" width="14" height="14" rx="3" fill="#3B82F6" stroke="#FFFFFF" stroke-opacity="0.025">
+    <title>23 contributions on 08 Sep 2026</title>
   </rect>
-  <rect x="940" y="164" width="14" height="14" rx="3" fill="#F472B6" stroke="#FFFFFF" stroke-opacity="0.025">
+  <rect x="940" y="164" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
     <title>15 contributions on 09 Sep 2026</title>
   </rect>
-  <rect x="940" y="182" width="14" height="14" rx="3" fill="#8B5CF6" stroke="#FFFFFF" stroke-opacity="0.025">
+  <rect x="940" y="182" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
     <title>11 contributions on 10 Sep 2026</title>
   </rect>
-  <rect x="940" y="200" width="14" height="14" rx="3" fill="#8B5CF6" stroke="#FFFFFF" stroke-opacity="0.025">
+  <rect x="940" y="200" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
     <title>12 contributions on 11 Sep 2026</title>
   </rect>
-  <rect x="940" y="218" width="14" height="14" rx="3" fill="#3B82F6" stroke="#FFFFFF" stroke-opacity="0.025">
+  <rect x="940" y="218" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
     <title>5 contributions on 12 Sep 2026</title>
   </rect>
-  <rect x="958" y="110" width="14" height="14" rx="3" fill="#8B5CF6" stroke="#FFFFFF" stroke-opacity="0.025">
+  <rect x="958" y="110" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
     <title>13 contributions on 13 Sep 2026</title>
   </rect>
-  <rect x="958" y="128" width="14" height="14" rx="3" fill="#3B82F6" stroke="#FFFFFF" stroke-opacity="0.025">
+  <rect x="958" y="128" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
     <title>5 contributions on 14 Sep 2026</title>
   </rect>
-  <rect x="958" y="146" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
-    <title>3 contributions on 15 Sep 2026</title>
+  <rect x="958" y="146" width="14" height="14" rx="3" fill="#3B82F6" stroke="#FFFFFF" stroke-opacity="0.025">
+    <title>28 contributions on 15 Sep 2026</title>
   </rect>
-  <rect x="958" y="164" width="14" height="14" rx="3" fill="#171B2B" stroke="#FFFFFF" stroke-opacity="0.025">
-    <title>No contributions on 16 Sep 2026</title>
+  <rect x="958" y="164" width="14" height="14" rx="3" fill="#3B82F6" stroke="#FFFFFF" stroke-opacity="0.025">
+    <title>21 contributions on 16 Sep 2026</title>
   </rect>
-  <rect x="958" y="182" width="14" height="14" rx="3" fill="#171B2B" stroke="#FFFFFF" stroke-opacity="0.025">
-    <title>No contributions on 17 Sep 2026</title>
+  <rect x="958" y="182" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
+    <title>5 contributions on 17 Sep 2026</title>
   </rect>
-  <rect x="958" y="200" width="14" height="14" rx="3" fill="#171B2B" stroke="#FFFFFF" stroke-opacity="0.025">
-    <title>No contributions on 18 Sep 2026</title>
+  <rect x="958" y="200" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
+    <title>8 contributions on 18 Sep 2026</title>
   </rect>
-  <rect x="958" y="218" width="14" height="14" rx="3" fill="#171B2B" stroke="#FFFFFF" stroke-opacity="0.025">
-    <title>No contributions on 19 Sep 2026</title>
+  <rect x="958" y="218" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
+    <title>1 contribution on 19 Sep 2026</title>
   </rect>
-  <rect x="976" y="110" width="14" height="14" rx="3" fill="#171B2B" stroke="#FFFFFF" stroke-opacity="0.025">
-    <title>No contributions on 20 Sep 2026</title>
+  <rect x="976" y="110" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
+    <title>3 contributions on 20 Sep 2026</title>
   </rect>
-  <rect x="976" y="128" width="14" height="14" rx="3" fill="#171B2B" stroke="#FFFFFF" stroke-opacity="0.025">
-    <title>No contributions on 21 Sep 2026</title>
+  <rect x="976" y="128" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
+    <title>3 contributions on 21 Sep 2026</title>
   </rect>
-  <rect x="976" y="146" width="14" height="14" rx="3" fill="#171B2B" stroke="#FFFFFF" stroke-opacity="0.025">
-    <title>No contributions on 22 Sep 2026</title>
+  <rect x="976" y="146" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
+    <title>4 contributions on 22 Sep 2026</title>
   </rect>
-  <rect x="976" y="164" width="14" height="14" rx="3" fill="#171B2B" stroke="#FFFFFF" stroke-opacity="0.025">
-    <title>No contributions on 23 Sep 2026</title>
+  <rect x="976" y="164" width="14" height="14" rx="3" fill="#3B82F6" stroke="#FFFFFF" stroke-opacity="0.025">
+    <title>20 contributions on 23 Sep 2026</title>
   </rect>
-  <rect x="976" y="182" width="14" height="14" rx="3" fill="#171B2B" stroke="#FFFFFF" stroke-opacity="0.025">
-    <title>No contributions on 24 Sep 2026</title>
+  <rect x="976" y="182" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
+    <title>4 contributions on 24 Sep 2026</title>
   </rect>
-  <rect x="976" y="200" width="14" height="14" rx="3" fill="#171B2B" stroke="#FFFFFF" stroke-opacity="0.025">
-    <title>No contributions on 25 Sep 2026</title>
+  <rect x="976" y="200" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
+    <title>17 contributions on 25 Sep 2026</title>
   </rect>
-  <rect x="976" y="218" width="14" height="14" rx="3" fill="#171B2B" stroke="#FFFFFF" stroke-opacity="0.025">
-    <title>No contributions on 26 Sep 2026</title>
+  <rect x="976" y="218" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
+    <title>2 contributions on 26 Sep 2026</title>
   </rect>
-  <rect x="994" y="110" width="14" height="14" rx="3" fill="#171B2B" stroke="#FFFFFF" stroke-opacity="0.025">
-    <title>No contributions on 27 Sep 2026</title>
+  <rect x="994" y="110" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
+    <title>9 contributions on 27 Sep 2026</title>
   </rect>
-  <rect x="994" y="128" width="14" height="14" rx="3" fill="#171B2B" stroke="#FFFFFF" stroke-opacity="0.025">
-    <title>No contributions on 28 Sep 2026</title>
+  <rect x="994" y="128" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
+    <title>9 contributions on 28 Sep 2026</title>
   </rect>
-  <rect x="994" y="146" width="14" height="14" rx="3" fill="#171B2B" stroke="#FFFFFF" stroke-opacity="0.025">
-    <title>No contributions on 29 Sep 2026</title>
+  <rect x="994" y="146" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
+    <title>4 contributions on 29 Sep 2026</title>
   </rect>
-  <rect x="994" y="164" width="14" height="14" rx="3" fill="#171B2B" stroke="#FFFFFF" stroke-opacity="0.025">
-    <title>No contributions on 30 Sep 2026</title>
+  <rect x="994" y="164" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
+    <title>2 contributions on 30 Sep 2026</title>
   </rect>
-  <rect x="994" y="182" width="14" height="14" rx="3" fill="#171B2B" stroke="#FFFFFF" stroke-opacity="0.025">
-    <title>No contributions on 01 Oct 2026</title>
+  <rect x="994" y="182" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
+    <title>17 contributions on 01 Oct 2026</title>
   </rect>
-  <rect x="994" y="200" width="14" height="14" rx="3" fill="#171B2B" stroke="#FFFFFF" stroke-opacity="0.025">
-    <title>No contributions on 02 Oct 2026</title>
+  <rect x="994" y="200" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
+    <title>11 contributions on 02 Oct 2026</title>
   </rect>
-  <rect x="994" y="218" width="14" height="14" rx="3" fill="#171B2B" stroke="#FFFFFF" stroke-opacity="0.025">
-    <title>No contributions on 03 Oct 2026</title>
+  <rect x="994" y="218" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
+    <title>7 contributions on 03 Oct 2026</title>
   </rect>
-  <rect x="1012" y="110" width="14" height="14" rx="3" fill="#171B2B" stroke="#FFFFFF" stroke-opacity="0.025">
-    <title>No contributions on 04 Oct 2026</title>
+  <rect x="1012" y="110" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
+    <title>9 contributions on 04 Oct 2026</title>
   </rect>
-  <rect x="1012" y="128" width="14" height="14" rx="3" fill="#171B2B" stroke="#FFFFFF" stroke-opacity="0.025">
-    <title>No contributions on 05 Oct 2026</title>
+  <rect x="1012" y="128" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
+    <title>12 contributions on 05 Oct 2026</title>
   </rect>
   <rect x="1012" y="146" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
-    <title>1 contribution on 06 Oct 2026</title>
+    <title>4 contributions on 06 Oct 2026</title>
   </rect>
-  <rect x="1012" y="164" width="14" height="14" rx="3" fill="#171B2B" stroke="#FFFFFF" stroke-opacity="0.025">
-    <title>No contributions on 07 Oct 2026</title>
+  <rect x="1012" y="164" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
+    <title>10 contributions on 07 Oct 2026</title>
   </rect>
-  <rect x="1012" y="182" width="14" height="14" rx="3" fill="#171B2B" stroke="#FFFFFF" stroke-opacity="0.025">
-    <title>No contributions on 08 Oct 2026</title>
+  <rect x="1012" y="182" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
+    <title>4 contributions on 08 Oct 2026</title>
   </rect>
-  <rect x="1012" y="200" width="14" height="14" rx="3" fill="#171B2B" stroke="#FFFFFF" stroke-opacity="0.025">
-    <title>No contributions on 09 Oct 2026</title>
+  <rect x="1012" y="200" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
+    <title>14 contributions on 09 Oct 2026</title>
   </rect>
-  <rect x="1012" y="218" width="14" height="14" rx="3" fill="#171B2B" stroke="#FFFFFF" stroke-opacity="0.025">
-    <title>No contributions on 10 Oct 2026</title>
+  <rect x="1012" y="218" width="14" height="14" rx="3" fill="#3B82F6" stroke="#FFFFFF" stroke-opacity="0.025">
+    <title>19 contributions on 10 Oct 2026</title>
   </rect>
-  <rect x="1030" y="110" width="14" height="14" rx="3" fill="#171B2B" stroke="#FFFFFF" stroke-opacity="0.025">
-    <title>No contributions on 11 Oct 2026</title>
+  <rect x="1030" y="110" width="14" height="14" rx="3" fill="#3B82F6" stroke="#FFFFFF" stroke-opacity="0.025">
+    <title>26 contributions on 11 Oct 2026</title>
   </rect>
-  <rect x="1030" y="128" width="14" height="14" rx="3" fill="#171B2B" stroke="#FFFFFF" stroke-opacity="0.025">
-    <title>No contributions on 12 Oct 2026</title>
+  <rect x="1030" y="128" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
+    <title>6 contributions on 12 Oct 2026</title>
   </rect>
-  <rect x="1030" y="146" width="14" height="14" rx="3" fill="#171B2B" stroke="#FFFFFF" stroke-opacity="0.025">
-    <title>No contributions on 13 Oct 2026</title>
+  <rect x="1030" y="146" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
+    <title>1 contribution on 13 Oct 2026</title>
   </rect>
-  <rect x="1030" y="164" width="14" height="14" rx="3" fill="#171B2B" stroke="#FFFFFF" stroke-opacity="0.025">
-    <title>No contributions on 14 Oct 2026</title>
+  <rect x="1030" y="164" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
+    <title>3 contributions on 14 Oct 2026</title>
   </rect>
-  <rect x="1030" y="182" width="14" height="14" rx="3" fill="#171B2B" stroke="#FFFFFF" stroke-opacity="0.025">
-    <title>No contributions on 15 Oct 2026</title>
+  <rect x="1030" y="182" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
+    <title>2 contributions on 15 Oct 2026</title>
   </rect>
-  <rect x="1030" y="200" width="14" height="14" rx="3" fill="#171B2B" stroke="#FFFFFF" stroke-opacity="0.025">
-    <title>No contributions on 16 Oct 2026</title>
+  <rect x="1030" y="200" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
+    <title>3 contributions on 16 Oct 2026</title>
   </rect>
-  <rect x="1030" y="218" width="14" height="14" rx="3" fill="#171B2B" stroke="#FFFFFF" stroke-opacity="0.025">
-    <title>No contributions on 17 Oct 2026</title>
+  <rect x="1030" y="218" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
+    <title>11 contributions on 17 Oct 2026</title>
   </rect>
-  <rect x="1048" y="110" width="14" height="14" rx="3" fill="#171B2B" stroke="#FFFFFF" stroke-opacity="0.025">
-    <title>No contributions on 18 Oct 2026</title>
+  <rect x="1048" y="110" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
+    <title>3 contributions on 18 Oct 2026</title>
   </rect>
-  <rect x="1048" y="128" width="14" height="14" rx="3" fill="#171B2B" stroke="#FFFFFF" stroke-opacity="0.025">
-    <title>No contributions on 19 Oct 2026</title>
+  <rect x="1048" y="128" width="14" height="14" rx="3" fill="#3B82F6" stroke="#FFFFFF" stroke-opacity="0.025">
+    <title>22 contributions on 19 Oct 2026</title>
   </rect>
-  <rect x="1048" y="146" width="14" height="14" rx="3" fill="#171B2B" stroke="#FFFFFF" stroke-opacity="0.025">
-    <title>No contributions on 20 Oct 2026</title>
+  <rect x="1048" y="146" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
+    <title>10 contributions on 20 Oct 2026</title>
   </rect>
-  <rect x="1048" y="164" width="14" height="14" rx="3" fill="#171B2B" stroke="#FFFFFF" stroke-opacity="0.025">
-    <title>No contributions on 21 Oct 2026</title>
+  <rect x="1048" y="164" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
+    <title>17 contributions on 21 Oct 2026</title>
   </rect>
-  <rect x="1048" y="182" width="14" height="14" rx="3" fill="#171B2B" stroke="#FFFFFF" stroke-opacity="0.025">
-    <title>No contributions on 22 Oct 2026</title>
+  <rect x="1048" y="182" width="14" height="14" rx="3" fill="#F472B6" stroke="#FFFFFF" stroke-opacity="0.025">
+    <title>70 contributions on 22 Oct 2026</title>
   </rect>
-  <rect x="1048" y="200" width="14" height="14" rx="3" fill="#F472B6" stroke="#FFFFFF" stroke-opacity="0.025">
-    <title>14 contributions on 23 Oct 2026</title>
+  <rect x="1048" y="200" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
+    <title>17 contributions on 23 Oct 2026</title>
   </rect>
   <text x="830" y="266" fill="#718096" font-size="11" class="mono">LESS</text>
   <rect x="936" y="254" width="14" height="14" rx="3" fill="#171B2B"/>
