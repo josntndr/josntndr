@@ -65,10 +65,10 @@ I’m a creative developer and interface designer from the Philippines, turning 
 <div align="center">
 
 <a href="https://github.com/josntndr" title="View my GitHub profile">
-  <img width="100%" src="https://contribkit.app/user/josntndr.svg?palette=tokyonight&amp;shape=rounded&amp;background=%230d1117" alt="Josephine's live GitHub contribution calendar" />
+  <img width="100%" src="./assets/contributions.svg?v=261-2026-10-23" alt="Josephine's official GitHub contribution calendar" />
 </a>
 
-<sub>Live contribution calendar · refreshed automatically from GitHub.</sub>
+<sub>Generated directly from GitHub · automatically checked every 30 minutes.</sub>
 
 </div>
 

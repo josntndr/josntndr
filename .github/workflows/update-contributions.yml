@@ -1,0 +1,42 @@
+name: Refresh contribution graph
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/scripts/update_contributions.py"
+      - ".github/workflows/update-contributions.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-graph
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate official contribution graph
+        run: python .github/scripts/update_contributions.py
+
+      - name: Publish changes when activity increases
+        run: |
+          if git diff --quiet -- assets/contributions.svg README.md; then
+            echo "Contribution graph is already current."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/contributions.svg README.md
+          git commit -m "chore: refresh contribution graph [skip ci]"
+          git push
