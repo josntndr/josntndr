@@ -1134,6 +1134,9 @@
   <rect x="1048" y="110" width="14" height="14" rx="3" fill="#26446F" stroke="#FFFFFF" stroke-opacity="0.025">
     <title>1 contribution on 25 Oct 2026</title>
   </rect>
+  <rect x="1048" y="128" width="14" height="14" rx="3" fill="#171B2B" stroke="#FFFFFF" stroke-opacity="0.025">
+    <title>No contributions on 26 Oct 2026</title>
+  </rect>
   <text x="830" y="266" fill="#718096" font-size="11" class="mono">LESS</text>
   <rect x="936" y="254" width="14" height="14" rx="3" fill="#171B2B"/>
   <rect x="956" y="254" width="14" height="14" rx="3" fill="#26446F"/>
