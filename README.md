@@ -65,7 +65,7 @@ I’m a creative developer and interface designer from the Philippines, turning 
 <div align="center">
 
 <a href="https://github.com/josntndr" title="View my GitHub profile">
-  <img width="100%" src="./assets/contributions.svg?v=864-2026-10-29" alt="Josephine's official GitHub contribution calendar" />
+  <img width="100%" src="./assets/contributions.svg?v=897-2026-10-29" alt="Josephine's official GitHub contribution calendar" />
 </a>
 
 <sub>Generated directly from GitHub · automatically checked every 30 minutes.</sub>
